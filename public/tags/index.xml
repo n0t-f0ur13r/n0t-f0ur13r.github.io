@@ -106,12 +106,5 @@
       <guid>http://localhost:1313/tags/x11/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Low-Level</title>
-      <link>http://localhost:1313/tags/low-level/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/low-level/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

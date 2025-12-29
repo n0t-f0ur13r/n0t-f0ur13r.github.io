@@ -102,6 +102,26 @@
             </div>
         </div>
         <ul id="menu">
+            <li>
+                <a href="http://localhost:1313/about/" title="About">
+                    <span>About</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/projects/" title="Projects">
+                    <span>Projects</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/garden/" title="Garden">
+                    <span>Garden</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/tags/" title="Tags">
+                    <span>Tags</span>
+                </a>
+            </li>
         </ul>
     </nav>
 </header>
@@ -113,21 +133,32 @@
 </header>
 
 <article class="post-entry tag-entry"> 
-<figure class="entry-cover">
-        <img loading="lazy" src="https://raw.githubusercontent.com/n0t-f0ur13r/UBike/master/images/circuit_diagram.png" alt="UBike System Architecture">
-</figure>
   <header class="entry-header">
-    <h2 class="entry-hint-parent">Guess the Picture - C X11 Hangman
+    <h2 class="entry-hint-parent">Why Vim?
     </h2>
   </header>
   <div class="entry-content">
-    <p>🔗 View Code on GitHub The Problem University campuses lack secure, automated parking solutions for bicycles. Traditional locks are vulnerable, and manual registration is slow. We needed a system that authenticated users biometrically and mechanically secured the bike without human intervention.
-The Solution I engineered a distributed IoT network where each parking node operates autonomously using an ESP32 microcontroller.
-Hardware: Custom circuit interfacing RC522 RFID readers and solenoids for physical locking. Connectivity: Nodes communicate via secure HTTP requests to a central Django server. Feedback: LED status indicators and fail-safe mechanisms for power outages. Tech Stack Firmware: C&#43;&#43; (Arduino Framework) with manual memory management for the ESP32. Backend: Python (Django) &amp; PostgreSQL for user/device management. Protocol: REST API over WiFi. Engineering Challenge The biggest hurdle was handling network latency on the microcontroller. The solenoid had to unlock instantly upon card scan.
+    <p>Leaving VS Code was hard, but necessary.
+The modal editing nature of Vim allows me to edit code at the “speed of thought”. Instead of reaching for the mouse to highlight a line, I simply press dd. And the speed of the homerow is a delight.
+It’s not just about speed; it’s about reducing friction between my brain and the codebase. It is about keeping the environment simple to focus in solving the problem, writing the right lines.
+</p>
+  </div>
+  <footer class="entry-footer"><span title='2025-12-29 00:00:00 +0000 UTC'>December 29, 2025</span>&nbsp;·&nbsp;<span>1 min</span></footer>
+  <a class="entry-link" aria-label="post link to Why Vim?" href="http://localhost:1313/garden/why-i-use-vim/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Native C/X11 Hybrid Game Engine
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>🔗 View Code on GitHub The Problem Standard terminal games lack visual engagement, while full GUI frameworks hide the low-level complexities. The goal was to build a “Hangman” style game that runs primarily in the Linux Console for input logic but renders progressive images in a separate X11 window, without relying on modern game engines.
+The Solution I engineered a native C application that bridges standard I/O with the X Window System.
 ...</p>
   </div>
-  <footer class="entry-footer"><span title='2025-06-15 00:00:00 +0000 UTC'>June 15, 2025</span>&nbsp;·&nbsp;<span>Josué Leiva</span></footer>
-  <a class="entry-link" aria-label="post link to Guess the Picture - C X11 Hangman" href="http://localhost:1313/projects/c-linux-graphics-hangman/"></a>
+  <footer class="entry-footer"><span title='2025-06-15 00:00:00 +0000 UTC'>June 15, 2025</span>&nbsp;·&nbsp;<span>2 min</span>&nbsp;·&nbsp;<span>Josué Leiva</span></footer>
+  <a class="entry-link" aria-label="post link to Native C/X11 Hybrid Game Engine" href="http://localhost:1313/projects/c-linux-graphics-hangman/"></a>
 </article>
     </main>
     

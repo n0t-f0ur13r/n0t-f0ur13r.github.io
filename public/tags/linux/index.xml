@@ -6,31 +6,30 @@
     <description>Recent content in Linux on Josué Leiva</description>
     <generator>Hugo -- 0.153.3</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Guess the Picture - C X11 Hangman</title>
+      <title>Why Vim?</title>
+      <link>http://localhost:1313/garden/why-i-use-vim/</link>
+      <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/garden/why-i-use-vim/</guid>
+      <description>&lt;p&gt;Leaving VS Code was hard, but necessary.&lt;/p&gt;
+&lt;p&gt;The modal editing nature of Vim allows me to edit code at the &amp;ldquo;speed of thought&amp;rdquo;.
+Instead of reaching for the mouse to highlight a line,
+I simply press &lt;code&gt;dd&lt;/code&gt;. And the speed of the homerow is a delight.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s not just about speed; it&amp;rsquo;s about &lt;strong&gt;reducing friction&lt;/strong&gt; between my brain and the codebase.
+It is about keeping the environment simple to focus in solving the problem, writing the right lines.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Native C/X11 Hybrid Game Engine</title>
       <link>http://localhost:1313/projects/c-linux-graphics-hangman/</link>
       <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/c-linux-graphics-hangman/</guid>
-      <description>&lt;h3 id=&#34;-view-code-on-github&#34;&gt;🔗 &lt;a href=&#34;https://github.com/n0t-f0ur13r/UBike&#34;&gt;View Code on GitHub&lt;/a&gt;&lt;/h3&gt;
+      <description>&lt;h3 id=&#34;-view-code-on-github&#34;&gt;🔗 &lt;a href=&#34;https://github.com/n0t-f0ur13r/c-linux-graphics-hangman&#34;&gt;View Code on GitHub&lt;/a&gt;&lt;/h3&gt;
 &lt;h2 id=&#34;the-problem&#34;&gt;The Problem&lt;/h2&gt;
-&lt;p&gt;University campuses lack secure, automated parking solutions for bicycles. Traditional locks are vulnerable, and manual registration is slow. We needed a system that authenticated users biometrically and mechanically secured the bike without human intervention.&lt;/p&gt;
+&lt;p&gt;Standard terminal games lack visual engagement, while full GUI frameworks hide the low-level complexities. The goal was to build a &amp;ldquo;Hangman&amp;rdquo; style game that runs primarily in the &lt;strong&gt;Linux Console&lt;/strong&gt; for input logic but renders progressive images in a separate &lt;strong&gt;X11 window&lt;/strong&gt;, without relying on modern game engines.&lt;/p&gt;
 &lt;h2 id=&#34;the-solution&#34;&gt;The Solution&lt;/h2&gt;
-&lt;p&gt;I engineered a &lt;strong&gt;distributed IoT network&lt;/strong&gt; where each parking node operates autonomously using an &lt;strong&gt;ESP32&lt;/strong&gt; microcontroller.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Hardware:&lt;/strong&gt; Custom circuit interfacing RC522 RFID readers and solenoids for physical locking.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Connectivity:&lt;/strong&gt; Nodes communicate via secure HTTP requests to a central &lt;strong&gt;Django&lt;/strong&gt; server.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Feedback:&lt;/strong&gt; LED status indicators and fail-safe mechanisms for power outages.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;tech-stack&#34;&gt;Tech Stack&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Firmware:&lt;/strong&gt; C++ (Arduino Framework) with manual memory management for the ESP32.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Backend:&lt;/strong&gt; Python (Django) &amp;amp; PostgreSQL for user/device management.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Protocol:&lt;/strong&gt; REST API over WiFi.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;engineering-challenge&#34;&gt;Engineering Challenge&lt;/h2&gt;
-&lt;p&gt;The biggest hurdle was &lt;strong&gt;handling network latency&lt;/strong&gt; on the microcontroller. The solenoid had to unlock instantly upon card scan.&lt;/p&gt;</description>
+&lt;p&gt;I engineered a native C application that bridges standard I/O with the X Window System.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

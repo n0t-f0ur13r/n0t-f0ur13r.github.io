@@ -5,6 +5,8 @@ theme = 'PaperMod'
 
 [params]
     defaultTheme = "auto" # Oscuro/Claro automático
+    ShowReadingTime = true
+    ShowShareButtons = false
     # Tu perfil lateral
     [params.profileMode]
         enabled = true
@@ -30,3 +32,25 @@ theme = 'PaperMod'
     [[params.socialIcons]]
         name = "linkedin"
         url = "https://linkedin.com/in/josuenicolas"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 20
+  [[menu.main]]
+    identifier = "garden"
+    name = "Garden"
+    url = "/garden/"
+    weight = 30
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 40

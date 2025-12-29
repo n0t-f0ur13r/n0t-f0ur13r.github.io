@@ -9,13 +9,16 @@
     <lastBuildDate>Mon, 29 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/vim/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Why Neovim?</title>
+      <title>Why Vim?</title>
       <link>http://localhost:1313/garden/why-i-use-vim/</link>
       <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/garden/why-i-use-vim/</guid>
       <description>&lt;p&gt;Leaving VS Code was hard, but necessary.&lt;/p&gt;
-&lt;p&gt;The modal editing nature of Vim allows me to edit code at the &amp;ldquo;speed of thought&amp;rdquo;. Instead of reaching for the mouse to highlight a line, I simply press &lt;code&gt;dd&lt;/code&gt;. To change the text inside parentheses, &lt;code&gt;ci(&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;It&amp;rsquo;s not just about speed; it&amp;rsquo;s about &lt;strong&gt;reducing friction&lt;/strong&gt; between my brain and the codebase.&lt;/p&gt;</description>
+&lt;p&gt;The modal editing nature of Vim allows me to edit code at the &amp;ldquo;speed of thought&amp;rdquo;.
+Instead of reaching for the mouse to highlight a line,
+I simply press &lt;code&gt;dd&lt;/code&gt;. And the speed of the homerow is a delight.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s not just about speed; it&amp;rsquo;s about &lt;strong&gt;reducing friction&lt;/strong&gt; between my brain and the codebase.
+It is about keeping the environment simple to focus in solving the problem, writing the right lines.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -102,6 +102,26 @@
             </div>
         </div>
         <ul id="menu">
+            <li>
+                <a href="http://localhost:1313/about/" title="About">
+                    <span>About</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/projects/" title="Projects">
+                    <span>Projects</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/garden/" title="Garden">
+                    <span>Garden</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/tags/" title="Tags">
+                    <span>Tags</span>
+                </a>
+            </li>
         </ul>
     </nav>
 </header>
@@ -121,12 +141,11 @@
     </h2>
   </header>
   <div class="entry-content">
-    <p>🔗 View Code on GitHub The Problem University campuses lack secure, automated parking solutions for bicycles. Traditional locks are vulnerable, and manual registration is slow. We needed a system that authenticated users biometrically and mechanically secured the bike without human intervention.
-The Solution I engineered a distributed IoT network where each parking node operates autonomously using an ESP32 microcontroller.
-Hardware: Custom circuit interfacing RC522 RFID readers and solenoids for physical locking. Connectivity: Nodes communicate via secure HTTP requests to a central Django server. Feedback: LED status indicators and fail-safe mechanisms for power outages. Tech Stack Firmware: C&#43;&#43; (Arduino Framework) with manual memory management for the ESP32. Backend: Python (Django) &amp; PostgreSQL for user/device management. Protocol: REST API over WiFi. Engineering Challenge The biggest hurdle was handling network latency on the microcontroller. The solenoid had to unlock instantly upon card scan.
+    <p>🔗 View Code on GitHub The Problem University campuses lack automated parking solutions for bicycles. Traditional locks are vulnerable, and manual registration is slow (crucial when the flow of students is high). We needed a system that authenticated users and mechanically secured the bike without human intervention.
+Provide fast and easy to use interface for both campus guards and bicycle owners to administrate the bicycles on the campus and their own bicycle respectively.
 ...</p>
   </div>
-  <footer class="entry-footer"><span title='2025-06-15 00:00:00 +0000 UTC'>June 15, 2025</span>&nbsp;·&nbsp;<span>Josué Leiva</span></footer>
+  <footer class="entry-footer"><span title='2025-06-15 00:00:00 +0000 UTC'>June 15, 2025</span>&nbsp;·&nbsp;<span>2 min</span>&nbsp;·&nbsp;<span>Josué Leiva</span></footer>
   <a class="entry-link" aria-label="post link to UBike: IoT Biometric Security System" href="http://localhost:1313/projects/ubike-iot/"></a>
 </article>
     </main>
