@@ -6,8 +6,17 @@
     <description>Recent content on Josué Leiva</description>
     <generator>Hugo -- 0.153.3</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 23:21:16 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thanks Beejs</title>
+      <link>http://localhost:1313/garden/thanks-beejs/</link>
+      <pubDate>Tue, 30 Dec 2025 23:21:16 -0300</pubDate>
+      <guid>http://localhost:1313/garden/thanks-beejs/</guid>
+      <description>&lt;p&gt;I am here just to thank Brian &amp;ldquo;Beej Jorgensen&amp;rdquo; Hall for
+his guide to Network Programming.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Se vienen cositas C:&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Why Vim?</title>
       <link>http://localhost:1313/garden/why-i-use-vim/</link>
@@ -63,10 +72,10 @@ the bicycles on the campus and their own bicycle respectively.&lt;/p&gt;</descri
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
       <description>&lt;h2 id=&#34;-im-josué-leiva&#34;&gt;👋 I&amp;rsquo;m Josué Leiva&lt;/h2&gt;
-&lt;p&gt;I am a &lt;strong&gt;Civil Telematics Engineering&lt;/strong&gt; student at &lt;strong&gt;UTFSM&lt;/strong&gt; (Chile), currently navigating my second year. unlike the typical engineering path, I found my passion in &lt;strong&gt;Mathematical Logic&lt;/strong&gt; and &lt;strong&gt;Abstract Algorithms&lt;/strong&gt; rather than pure physics.&lt;/p&gt;
+&lt;p&gt;I am a &lt;strong&gt;Civil Telematics Engineering&lt;/strong&gt; student at &lt;strong&gt;UTFSM&lt;/strong&gt; (Chile), just finished flying my second year.
+Unlike the typical engineering path, I have found deep love for &lt;strong&gt;Mathematics&lt;/strong&gt; and &lt;strong&gt;Probability&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;My journey is defined by a desire to understand &lt;em&gt;how&lt;/em&gt; things work at the lowest level—from the electrical signals in an ESP32 to the memory allocation in a C++ kernel.&lt;/p&gt;
-&lt;h3 id=&#34;-my-digital-workbench&#34;&gt;🛠️ My Digital Workbench&lt;/h3&gt;
-&lt;p&gt;I believe tools shape the way we think. Here is my daily driver setup:&lt;/p&gt;</description>
+&lt;p&gt;Above all, I keep &lt;strong&gt;God&lt;/strong&gt; (Jesus) as the foundation for every purpose and pursuit in my life.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

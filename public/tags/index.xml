@@ -6,13 +6,27 @@
     <description>Recent content in Tags on Josué Leiva</description>
     <generator>Hugo -- 0.153.3</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 23:21:16 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C</title>
+      <link>http://localhost:1313/tags/c/</link>
+      <pubDate>Tue, 30 Dec 2025 23:21:16 -0300</pubDate>
+      <guid>http://localhost:1313/tags/c/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Linux</title>
       <link>http://localhost:1313/tags/linux/</link>
-      <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 30 Dec 2025 23:21:16 -0300</pubDate>
       <guid>http://localhost:1313/tags/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sockets</title>
+      <link>http://localhost:1313/tags/sockets/</link>
+      <pubDate>Tue, 30 Dec 2025 23:21:16 -0300</pubDate>
+      <guid>http://localhost:1313/tags/sockets/</guid>
       <description></description>
     </item>
     <item>
@@ -55,13 +69,6 @@
       <link>http://localhost:1313/tags/sqlite/</link>
       <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/sqlite/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>C</title>
-      <link>http://localhost:1313/tags/c/</link>
-      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/c/</guid>
       <description></description>
     </item>
     <item>

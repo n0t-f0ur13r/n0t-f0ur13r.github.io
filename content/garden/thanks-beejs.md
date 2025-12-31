@@ -1,6 +1,6 @@
 ---
-title = 'Thanks Beejs'
-date = 2025-12-30T23:21:16-03:00
+title: "Thanks Beejs"
+date: 2025-12-30T23:21:16-03:00
 tags: ["Linux", "C", "Sockets"]
 ---
 

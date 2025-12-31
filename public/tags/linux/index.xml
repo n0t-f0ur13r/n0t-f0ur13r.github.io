@@ -6,8 +6,17 @@
     <description>Recent content in Linux on Josué Leiva</description>
     <generator>Hugo -- 0.153.3</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 23:21:16 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thanks Beejs</title>
+      <link>http://localhost:1313/garden/thanks-beejs/</link>
+      <pubDate>Tue, 30 Dec 2025 23:21:16 -0300</pubDate>
+      <guid>http://localhost:1313/garden/thanks-beejs/</guid>
+      <description>&lt;p&gt;I am here just to thank Brian &amp;ldquo;Beej Jorgensen&amp;rdquo; Hall for
+his guide to Network Programming.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Se vienen cositas C:&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Why Vim?</title>
       <link>http://localhost:1313/garden/why-i-use-vim/</link>
